@@ -1,0 +1,22 @@
+{
+  "name": "js-test-runner",
+  "version": "1.0.0",
+  "description": "test runner in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LondonAlgorithms/js-test-runner.git"
+  },
+  "author": "Katy Moe <katy@katy.moe> (http://katy.moe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LondonAlgorithms/js-test-runner/issues"
+  },
+  "homepage": "https://github.com/LondonAlgorithms/js-test-runner#readme",
+  "dependencies": {
+    "intern": "^3.2.3"
+  }
+}
